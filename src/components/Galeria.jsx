@@ -8,7 +8,7 @@ export default function Galeria() {
 
   const { pictures, setPictures } = useContext(Context);
 
-  // seccion filtrado para favoritos, via hacer un array con los elementos que tiene un true
+  // seccion filtrado: utilizar la variable like, para poder hacer el filtro en favoritos con el cambio en la variable
 
   const newFavorites = (index) => {
     setPictures((current) =>

@@ -1,3 +1,18 @@
+# Natural Pic:
+challenge oriented to the use of react context, in which by using an SPA and 2 landing which are connecet through hooks and Context, both the landing interact to modify a fetched json in order to 1) deploy the images with an initial array and 2) to generate a favorites section which feeds from the feedback given in the home section. Also you can delete a picture in order to modify the "liked" status. 
+
+
+# Review the operating project on netlify: 
+https://nimble-jalebi-5afc38.netlify.app
+
+
+# Review the project on github: 
+https://github.com/diegoalmeidaz/desafio_5.2_react_context
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
